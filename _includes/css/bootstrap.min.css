@@ -26,17 +26,5 @@ width: 25%;
 background-color: #FFFFFF;
 }
 
-@media (min-width:992px){
-  .base li {
-    display: table-cell;
-width: 50%;
-}
-}
 
-@media (min-width:1200px){
-.base li {
-  display: table-cell;
-width: 25%;
-}
-}
 
