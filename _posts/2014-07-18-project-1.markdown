@@ -7,7 +7,7 @@ date: 2020-08-01T00:00:00.000Z
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: Июль 2020
+project-date: Июль 2020ю
 client: Частный заказчик
 category: Электромонтаж под ключ
 description: >-
