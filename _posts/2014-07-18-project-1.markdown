@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Июль 2020ю
 client: Частный заказчик
-category: Электромонтаж под ключ
+category: service
 description: >-
   Прокладка кабеля: По стенам - поверх стены, под дальнейшую штукатурку. По
   потолку - в гофре Соединение кабеля: На потолке, в распределительных коробках.
