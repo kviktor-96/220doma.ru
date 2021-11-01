@@ -1,18 +1,20 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Коттедж
+subtitle: 2 этажа + цокольный этаж. 560 м. кв.
 layout: default
 modal-id: 4
 date: 2014-07-15T00:00:00.000Z
 img: treehouse.webp
 thumbnail: treehouse-thumbnail.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: Февраль 2019
+client: Частный заказчик
+category: Электромонтаж под ключ
 description: >-
-  Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum
-  diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+  Выполнен электромонтаж под ключ в коттедже. На объекте установлено два
+  понижающих трансформатора 220В - 110В по 7,5 кВт каждый. В доме используется
+  две линии напряжения - 220В, 110В. Во всех комнатах установлены розетки
+  европейского и американского стандартов. Необходимость такого решения вызвана
+  наличием большого количества импортных электроприборов из США.
 published: true
 ---
