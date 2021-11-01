@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: "Kay Garland"
   pic: 1.webp
   position: Lead Designer
   social:
@@ -46,11 +46,11 @@ people:
   pic: 1.webp
   position: r
   social:
-  - title: twitter
+  - title: "twitter"
   	url: https://vk.com/kuzin.kuzin
-  - title: whatsapp
+  - title: "whatsapp"
   	url: https://wa.me/+79003587669
-  - title: telegram
+  - title: "telegram"
     url: https://t.me/kuzvikal
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
