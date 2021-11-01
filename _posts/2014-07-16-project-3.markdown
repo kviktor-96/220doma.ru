@@ -4,7 +4,7 @@ subtitle: Website Design
 layout: default
 modal-id: 3
 date: 2014-07-16T00:00:00.000Z
-img: golden.png
+img: golden.webp
 thumbnail: golden-thumbnail.webp
 alt: image-alt
 project-date: April 2014
