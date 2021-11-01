@@ -9,16 +9,16 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: "Kay Garland"
+- name: "Кузин Виктор"
   pic: 1.webp
-  position: Lead Designer
+  position: Инженер-электрик
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: vk
+      url: https://vk.com/kuzin.kuzin
+    - title: whatsapp
+      url: https://instagram.com/220doma.ru
+    - title: telegram
+      url: https://t.me/kuzvikal
 
 - name: Larry Parker
   pic: 2.webp
@@ -42,16 +42,6 @@ people:
     - title: google-plus
       url: #
 
-- name: "Виктор Кузин"
-  pic: 1.webp
-  position: "Инженер-электрик"
-  social:
-  - title: "vk"
-  	url: "https://vk.com/kuzin.kuzin"
-  - title: "whatsapp"
-  	url: "https://wa.me/+79003587669"
-  - title: "telegram"
-    url: "https://t.me/kuzvikal"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
