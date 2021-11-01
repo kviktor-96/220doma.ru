@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Kay Garland11
-  pic: 1
+  pic: 1.webp
   position: Lead Designer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Larry Parker
-  pic: 2
+  pic: 2.webp
   position: Lead Marketer
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Diana Petersen
-  pic: 3
+  pic: 3.webp
   position: Lead Developer
   social:
     - title: twitter
