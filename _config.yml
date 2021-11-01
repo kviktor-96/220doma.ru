@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland11
+- name: "Kay Garland"
   pic: 1.webp
   position: Lead Designer
   social:
@@ -42,6 +42,17 @@ people:
     - title: google-plus
       url: #
 
+- name: "Виктор Кузин"
+  pic: 1.webp
+  position: "Инженер-электрик"
+  social:
+  - title: "vk"
+  	url: "https://vk.com/kuzin.kuzin"
+  - title: "whatsapp"
+  	url: "https://wa.me/+79003587669"
+  - title: "telegram"
+    url: "https://t.me/kuzvikal"
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: vk
@@ -56,8 +67,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Брянск
 
 # Build settings
 markdown: kramdown
