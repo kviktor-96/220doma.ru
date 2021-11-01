@@ -1297,6 +1297,10 @@
 .fa-vk:before {
   content: "\f189";
 }
+.fa-telegram:before {
+  content: "\f2c6";
+}
+
 .fa-weibo:before {
   content: "\f18a";
 }
