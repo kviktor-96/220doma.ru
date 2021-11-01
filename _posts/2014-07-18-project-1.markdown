@@ -4,8 +4,8 @@ subtitle: '1 этаж, 125 м2'
 layout: default
 modal-id: 1
 date: 2020-08-01T00:00:00.000Z
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: dreams.webp
+thumbnail: dreams-thumbnail.webp
 alt: image-alt
 project-date: Июль 2020ю
 client: Частный заказчик
