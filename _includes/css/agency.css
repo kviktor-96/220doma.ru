@@ -266,11 +266,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-  	height:100vh;
+  	min-height:100vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}img/header-bg.webp');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -863,4 +863,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+img {
+    max-width: 100%;
 }
