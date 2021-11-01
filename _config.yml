@@ -44,14 +44,14 @@ people:
 
 - name: "Виктор Кузин"
   pic: 1.webp
-  position: r
+  position: "Инженер-электрик"
   social:
-  - title: "twitter"
-  	url: https://vk.com/kuzin.kuzin
+  - title: "vk"
+  	url: "https://vk.com/kuzin.kuzin"
   - title: "whatsapp"
-  	url: https://wa.me/+79003587669
+  	url: "https://wa.me/+79003587669"
   - title: "telegram"
-    url: https://t.me/kuzvikal
+    url: "https://t.me/kuzvikal"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
