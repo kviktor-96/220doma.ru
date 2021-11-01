@@ -1,18 +1,19 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Промышленный объект
+subtitle: Нефтебаза
 layout: default
 modal-id: 2
 date: 2014-07-17T00:00:00.000Z
 img: escape.webp
 thumbnail: escape-thumbnail.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: Август 2021
+client: Роснефть
+category: Автоматизация
 description: >-
-  Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum
-  diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+  Выполнили работы по устройству системы ПАЗ (противоаварийной защиты) на
+  нефтебазе. Оснастили агрегатные насосы датчиками ПАЗ, установили шкаф системы
+  автоматизации ПАЗ с контроллером Siemens, демонтировали старый ЩС и установили
+  новый. Проложили кабельные трассы в количестве 1200 м.
 published: true
 ---

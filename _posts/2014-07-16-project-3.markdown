@@ -1,18 +1,18 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Загородный комплекс
+subtitle: 'Баня, дом, домик охранников, дворовый участок.'
 layout: default
 modal-id: 3
 date: 2014-07-16T00:00:00.000Z
 img: golden.webp
 thumbnail: golden-thumbnail.webp
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: Июнь 2021
+client: Частный заказчик
+category: Солнечная электростанция
 description: >-
-  Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum
-  diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+  Установили солнечную электростанцию в загородном участке с домом, баней и
+  домиком охранников. Произведен электромонтаж бани, домика охранников и
+  дворового участка.
 published: true
 ---
