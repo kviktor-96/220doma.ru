@@ -18,5 +18,6 @@ description: >-
   - 6 м. Срок службы - до 100 лет. Электрический щит: 14 независимых линий. Тип
   защиты автоматики - дифференциальный ток (УЗО), КЗ и перегрузка.
 published: true
+permalink: /post1/
 ---
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
