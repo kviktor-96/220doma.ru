@@ -1,0 +1,9 @@
+{
+  "name": "Электрик Брянск 220doma",
+  "short_name": "220doma.ru",
+  "lang": "ru-RU",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#d44",
+  "background_color": "#fff"
+}
