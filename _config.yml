@@ -9,7 +9,7 @@ description: " 3Write an awesome description for your new site here. You can edi
 
 # Team names, titles and social links
 people:
-- name: "Кузин Виктор!"
+- name: "Кузин Виктор"
   pic: 1.webp
   position: Инженер-электрик
   social:
