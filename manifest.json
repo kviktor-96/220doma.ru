@@ -1,8 +1,9 @@
 {
   "name": "Электрик Брянск 220doma",
   "short_name": "220doma.ru",
+  "description": "Профессиональный электрик в Брянске 220doma.ru",
   "lang": "ru-RU",
-  "start_url": "https://kviktor-96.github.io/220doma.ru/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#d44",
   "background_color": "#fff"
