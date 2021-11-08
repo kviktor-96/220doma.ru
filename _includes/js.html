@@ -16,17 +16,3 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
 
-  <script>
-if (‘serviceWorker’ in navigator) {
- window.addEventListener(‘load’, function() {  
-   navigator.serviceWorker.register(‘/220doma.ru/sw.js’).then(
-     function(registration) {
-       // Registration was successful
-       console.log(‘ServiceWorker registration successful with scope: ‘, registration.scope); },
-     function(err) {
-       // registration failed :(
-       console.log(‘ServiceWorker registration failed: ‘, err);
-     });
- });
-}
-</script>
